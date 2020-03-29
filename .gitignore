@@ -1,1 +1,3 @@
 node_modules/ 
+/nodemone.json
+/package-lock.json
